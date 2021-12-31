@@ -2,14 +2,12 @@ owner: mmiller42
 repo: wheres-my-refund-uptime
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: "IRS Where's My Refund? Tool"
+    url: https://sa.www4.irs.gov/irfof/lang/en/irfofgetstatus.jsp
+    headers:
+      - "Accept: text/html"
+      - "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36"
+    __dangerous__body_down: "This service is currently unavailable"
 
 status-website:
   # cname: demo.upptime.js.org
