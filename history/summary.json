@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/sa.www4.irs.gov",
     "slug": "irs-where-s-my-refund-tool",
     "status": "down",
-    "uptime": "11.89%",
-    "uptimeDay": "11.89%",
-    "uptimeWeek": "11.89%",
-    "uptimeMonth": "11.89%",
-    "uptimeYear": "11.89%",
-    "time": 521,
-    "timeDay": 521,
-    "timeWeek": 521,
-    "timeMonth": 521,
-    "timeYear": 521,
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
+    "time": 635,
+    "timeDay": 635,
+    "timeWeek": 635,
+    "timeMonth": 635,
+    "timeYear": 635,
     "dailyMinutesDown": {
-      "2021-12-31": 0
+      "2022-01-01": 39,
+      "2021-12-31": 236
     }
   }
 ]
