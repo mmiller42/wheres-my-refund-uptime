@@ -1,7 +1,7 @@
 url: https://sa.www4.irs.gov/irfof/lang/en/irfofgetstatus.jsp
-status: down
+status: up
 code: 200
-responseTime: 800
-lastUpdated: 2022-01-02T23:07:42.981Z
+responseTime: 686
+lastUpdated: 2022-01-03T12:29:56.766Z
 startTime: Fri Dec 31 2021 20:04:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
